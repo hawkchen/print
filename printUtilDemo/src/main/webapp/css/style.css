@@ -1,0 +1,90 @@
+body.breeze {
+	padding: 0;
+}
+#header {
+	background: #008DB7;
+}
+#header-title {
+	height: 85px;
+	width: 960px;
+	margin: 0 auto;
+}
+#header-logo {
+	width: 63px;
+	height: 85px;
+	float: left;
+	background: url('../images/top_zk_logo.png') no-repeat scroll 0px 21px transparent;
+}
+#header-logo a {
+	display: block;
+	font-size: 1px;
+	width: 63px;
+	height: 85px;
+}
+#footer {
+	background-color: #102D35;
+	color: #708286;
+	height: 70px;
+}
+#footer-inner {
+	width: 960px;
+	margin: 0 auto;
+	padding-top: 29px;
+}
+#footer-txt {
+	float: right;
+}
+#footer-contact {
+	float: left;
+}
+#footer a {
+	color: #B8C0C3;
+}
+
+/* Mortgage Report */
+.mortgage-items {
+	border: 1px solid #F39C12;
+	border-bottom: none;
+}
+.mortgage-category {
+	font-family: Arial,Sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+	padding: 4px 5px 3px;
+	line-height: 24px;
+	background-color: #F39C12;
+	border-bottom: 1px solid #F39C12;
+}
+.mortgage-item-cell {
+	font-family: Arial,Sans-serif;
+	font-size: 12px;
+	color: #636363;
+	padding: 4px 5px 3px;
+	line-height: 24px;
+	overflow: hidden;
+	border-bottom: 1px solid #F39C12;
+}
+.mortgage-item-value {
+	text-align: right;
+}
+.collapse-table {
+	border: 1px solid #F39C12;
+}
+.collapse-table table {
+	border-collapse: collapse;
+}
+.table-header {
+	text-align: center !important;
+	background: #F39C12;
+	border-left: none;
+	border-bottom: 1px solid #F39C12;
+}
+.table-header .z-column-content {
+	color: #FFFFFF;
+}
+.custom-row {
+	border-bottom: 1px solid #F39C12;
+}
+.custom-row .z-row-inner {
+	border-left: none;
+}

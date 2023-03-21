@@ -1,4 +1,0 @@
-<zk>
-	<style src="${param.printStyle}" media="print" />
-	<html content="${param.printContent}" />
-</zk>
